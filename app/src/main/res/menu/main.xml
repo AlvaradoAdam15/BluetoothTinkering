@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/menu_discover"
-        android:title="@string/discover" />
+        android:title="@string/menu_discover" />
+    <item android:id="@+id/menu_pairedDevices"
+        android:title="@string/menu_pairedDevices" />
 
 </menu>
