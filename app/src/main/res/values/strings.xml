@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BluetoothTinkering</string>
+    <string name="discover">Make discoverable</string>
 </resources>
